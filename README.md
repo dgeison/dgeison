@@ -1,6 +1,6 @@
 ### Olá! Sou Dgeison, tudo bem com vcs?
 - 🔭 ...
-- 🌱 Estou aprendendo no momento Data Science 
+- 🌱 No momento, Estou aprendendo Data Science 
 - 💬 Pergunte-me sobre Python
 ## 📊 My Github Stats
 <div>
