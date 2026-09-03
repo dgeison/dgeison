@@ -1,59 +1,56 @@
-<!--
-[![](https://komarev.com/ghpvc/?username=dgeison&color=2b2d31)](https://github.com/dgeison)
--->
+# Dgeison S. Peixoto
 
-<div align="center">
-  
-  <img src="https://github.com/dgeison/dgeison/raw/main/assets/eldenring_banner_dark.png" alt="Elden Ring Dark Banner" style="width:100%;border-radius:10px;" />
-  
-  <h1>
-    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f5a4.svg" width="32" /> dgeison
-  </h1>
-  <h2>Engenheiro de Dados | Python • Spark • SQL</h2>
-</div>
+**Engenheiro de Dados** — migração de legado para lakehouse, modelagem dimensional e dado público virando produto.
+
+Brasília · Remoto · [LinkedIn](https://www.linkedin.com/in/dgeisondev/) · [tangerina.cloud](https://www.tangerina.cloud/) · dgeison.peixoto@gmail.com
 
 ---
 
-> "Entre dados e sombras, construo caminhos para a sabedoria."  
-> <sub><sup>Inspirado por mundos sombrios e desafiadores, como Elden Ring.</sup></sub>
+## O que eu faço
+
+Tiro base de dado de ambiente legado, coloco em nuvem e lakehouse, e modelo o dado direito na chegada.
+
+Entre 2023 e 2026 fui engenheiro de dados na **Cielo**, na área de Logística, responsável pelos dados do parque de máquinas. Participei das duas gerações da migração da plataforma: mais de 20 migrações de um Oracle on-premise para a **AWS** (S3, Lambda, DynamoDB) e depois cerca de 20 desse ambiente para o **Databricks**, com a arquitetura evoluindo para o formato medalhão — bronze, prata e gold.
+
+A entrega de que mais me orgulho foi implementar **SCD Tipo 2** em tabelas que não preservavam histórico. Antes, quando um cliente mudava de segmento, o histórico de transações do segmento anterior se perdia para a análise. Depois, a série histórica passou a ser rastreável.
+
+Antes disso, quatro anos na **Câmara dos Deputados** como assessor de orçamento — LDO, LOA e destinação de emendas parlamentares, tudo acompanhado em planilha. Hoje eu automatizo esse mesmo acompanhamento em Python.
+
+Também dou mentoria de **Python e SQL** para profissionais em transição de carreira.
 
 ---
 
-### 🛡️ Sobre mim
+## Stack
 
-- ⚙️ Engenheiro de Dados apaixonado por desafios complexos e soluções robustas.
-- 🐍 Especialista em Python, Spark e SQL.
-- 🎮 Fã de games desafiadores e atmosferas sombrias — Elden Ring é uma grande inspiração.
-- ☁️ Explorando sempre novas tecnologias e arquiteturas de dados.
+`Python` · `SQL` · `PySpark` · `Spark` · `Databricks` · `Delta Lake` · `AWS (S3, Lambda, DynamoDB)` · `Oracle` · `Git` · `GitLab CI/CD` · `Docker` · `Linux`
 
 ---
 
-### 🕯️ Conecte-se comigo
+## Projetos em destaque
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dgeisondev-2b2d31?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dgeisondev/)
-[![Email](https://img.shields.io/badge/Email-dgeison.peixoto@gmail.com-2b2d31?logo=gmail&logoColor=white)](mailto:dgeison.peixoto@gmail.com)
+### Gabinete Fácil — Tangerina · no ar
 
----
+Sistema de gestão para gabinetes parlamentares construído inteiramente sobre dado público oficial.
 
-### 🚧 Projetos em destaque
+Construí a camada de dados do produto: ingestão a partir de três fontes públicas oficiais, incluindo a API do Portal da Transparência; rastreamento de emendas parlamentares individuais, permitindo seguir o recurso do autor até o município; e a base territorial e eleitoral que cobre os 5.570 municípios brasileiros. Também o banco, a camada de consulta e o provisionamento da infraestrutura.
 
-<!--
-Adicione links para seus projetos favoritos abaixo, por exemplo:
-- [Nome do Projeto](URL) - Breve descrição
--->
+Nada é estimado ou digitado à mão — todo o dado vem direto da fonte oficial.
+
+**[www.tangerina.cloud](https://www.tangerina.cloud/)**
 
 ---
 
-### ☠️ Curiosidades
+## Formação
 
-- Dark souls-liker: adoro jogos com atmosfera sombria e lore profunda.
-- Sempre em busca de novos desafios e de aprender algo novo.
-- Curto café forte e playlists de dark ambient.
+Pós-graduação em **Engenharia de Dados** — PUC Minas
+
+Pós-graduação em **Ciência de Dados e Big Data** — PUC Minas
+
+Tecnologia da Informação — UniCesumar
 
 ---
 
-<div align="center">
-  <img src="https://github.com/dgeison/dgeison/raw/main/assets/eldenring_bonfire.gif" alt="Bonfire" width="120"/>
-  <br />
-  <sub><sup>"May your data always be uncorrupted."</sup></sub>
-</div>
+Aberto a oportunidades 100% remotas como engenheiro de dados.
+
+> "Entre dados e sombras, construo caminhos para a sabedoria."
+> Dark souls-liker, café forte e dark ambient. May your data always be uncorrupted.
