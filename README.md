@@ -40,6 +40,13 @@ Nada é estimado ou digitado à mão — todo o dado vem direto da fonte oficial
 
 ---
 
+## Estudos e outros repositórios
+
+Exercícios e cursos de Ciência de Dados/Engenharia de Dados ficam agrupados
+em [data-science-estudos](https://github.com/dgeison/data-science-estudos)
+e [lab-airbnb](https://github.com/dgeison/lab-airbnb). Catálogo completo de
+todos os repositórios (produção, estudos, cursos) em **[PORTFOLIO.md](PORTFOLIO.md)**.
+
 ## Formação
 
 Pós-graduação em **Engenharia de Dados** — PUC Minas
