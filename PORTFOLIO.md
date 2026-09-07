@@ -43,6 +43,14 @@ referência rápida em sessões futuras com LLM.
 | [finbank-ledger-api](https://github.com/dgeison/finbank-ledger-api) | API bancária educacional (Node/Express) |
 | [TrainOps-PostgreSQL](https://github.com/dgeison/TrainOps-PostgreSQL) / [TrainOps](https://github.com/dgeison/TrainOps) | Gestão de academia — evolução de JSON para PostgreSQL+Docker |
 
+## Produtos em desenvolvimento (privados)
+
+| Repo | Sobre |
+|---|---|
+| aula-marcada 🔒 | SaaS de agendamento de aulas (backend FastAPI) |
+| barbershop-ai 🔒 | Assistente de atendimento via WhatsApp para barbearias, com agendamento por IA |
+| eco-shorts 🔒 | Geração/gestão de vídeos curtos (Next.js + Django) |
+
 ## Ciência de Dados & Engenharia de Dados — estudos
 
 | Repo | Sobre |
@@ -135,9 +143,10 @@ referência rápida em sessões futuras com LLM.
 | Repo | Sobre |
 |---|---|
 | llm-wiki 🔒 | Base de conhecimento sobre SaaS e IA, mantida por LLM (método Karpathy) |
+| ideias-e-notas 🔒 | Rascunhos, prompts e anotações soltas de produtos/ideias (sem código) |
 
 ## Produtos e sites de clientes/campanhas (não é portfólio técnico)
 
-subtenentegonzaga-site-2026 🔒 · denisebrasil4440-site 🔒 · [lena-legal-pages](https://github.com/dgeison/lena-legal-pages) · agencia-influenciadoras-ia 🔒 · catalogo-streaming 🔒 · abba_bot 🔒 · cloudarr-core 🔒 · openclaw-workspace-backup 🔒 · patient-binturong-nudge 🔒
+subtenentegonzaga-site-2026 🔒 · denisebrasil4440-site 🔒 · [lena-legal-pages](https://github.com/dgeison/lena-legal-pages) · agencia-influenciadoras-ia 🔒 · catalogo-streaming 🔒 · abba_bot 🔒 · cloudarr-core 🔒 · openclaw-workspace-backup 🔒 · patient-binturong-nudge 🔒 · [portifolio-dev](https://github.com/dgeison/portifolio-dev)
 
 🔒 = repositório privado
